@@ -6,7 +6,6 @@
 
 <br />
 
-<img src="images/Sc4.jpg" alt="Restaurant MC88" width="100%" />
 
 </div>
 
@@ -44,10 +43,10 @@ Switch themes from the menu, and the site remembers what you picked for next tim
 ## 📸 A look inside
 
 <div align="center">
-  <img src="images/Sc5.jpg" alt="A view of the menu" width="100%" />
+  <img src="images/Sr2.gif" alt="A short walkthrough" width="100%" />
 </div>
 
-<br />
+
 
 <div align="center">
   <img src="images/Sc1.jpg" alt="A short walkthrough" width="100%" />
@@ -60,11 +59,7 @@ Switch themes from the menu, and the site remembers what you picked for next tim
 </div>
 <br />
 
-<div align="center">
-  <img src="images/Sr2.gif" alt="A short walkthrough" width="100%" />
-</div>
 
-<br />
 ---
 
 ## 🧭 How ordering works
