@@ -41,12 +41,14 @@ Switch themes from the menu, and the site remembers what you picked for next tim
 ---
 
 ## 📸 A look inside
+<br />
 
 <div align="center">
   <img src="images/Sr2.gif" alt="A short walkthrough" width="100%" />
 </div>
 
 
+<br />
 
 <div align="center">
   <img src="images/Sc1.jpg" alt="A short walkthrough" width="100%" />
