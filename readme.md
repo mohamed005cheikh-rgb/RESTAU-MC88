@@ -50,13 +50,13 @@ Switch themes from the menu, and the site remembers what you picked for next tim
 <br />
 
 <div align="center">
-  <img src="images/Sr1.gif" alt="A short walkthrough" width="100%" />
+  <img src="images/Sc1.jpg" alt="A short walkthrough" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="images/Sr2.gif" alt="Placing an order" width="100%" />
+  <img src="images/Sc2.jpg" alt="Placing an order" width="100%" />
 </div>
 
 ---
