@@ -58,7 +58,13 @@ Switch themes from the menu, and the site remembers what you picked for next tim
 <div align="center">
   <img src="images/Sc2.jpg" alt="Placing an order" width="100%" />
 </div>
+<br />
 
+<div align="center">
+  <img src="images/Sr2.gif" alt="A short walkthrough" width="100%" />
+</div>
+
+<br />
 ---
 
 ## 🧭 How ordering works
