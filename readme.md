@@ -12,13 +12,13 @@
 
 ---
 
-## 👋 About
+## 👋 Welcome
 
 Restaurant MC88 is a small digital home for a kitchen that takes pride in what it serves.
 
-You can browse the menu, pick what you like, and send your order straight to us on WhatsApp — no accounts, no waiting, no complications. Just good food and a clean experience, on your phone or on your computer.
+Here you can browse the full menu, pick what you like, and send your order straight to us on WhatsApp — no accounts, no waiting, no complications. Just good food and a clean experience, whether you're on your phone or at your computer.
 
-It was made to feel like walking into the restaurant: warm, simple, and focused on the food.
+Everything here is made to feel like walking into the restaurant: warm, simple, and focused on the food.
 
 ---
 
@@ -31,10 +31,10 @@ Burgers, Sides, French dishes, Arabian nights, Steaks, Desserts, Drinks, and a s
 Add anything you want, change the quantity, remove what you don't — everything updates right away, and the total is always in front of you.
 
 **Order straight from your phone.**  
-When you're ready, we build a clean receipt with your items grouped nicely, and send it to our WhatsApp. You'll see exactly what you're ordering before you press send.
+When you're ready, we build a clean receipt with your items grouped by section, and send it to our WhatsApp. You see exactly what you're ordering before you press send.
 
 **Delivery or pickup — your call.**  
-Choose delivery and we'll ask for your address. Choose pickup and you skip the fee. Simple as that.
+Choose delivery and we'll ask for your address. Choose pickup and you skip the fee.
 
 **A light and dark side.**  
 Switch themes from the menu, and the site remembers what you picked for next time.
@@ -68,17 +68,21 @@ It's really this simple:
 1. **Scroll through the menu** and tap "Add" on anything that looks good.
 2. **Open your order** from the bag icon at the top — you can adjust quantities or remove items there.
 3. **Fill in your details** — your name, a backup phone number, and where you'd like it delivered (or pick it up yourself).
-4. **Send it to us on WhatsApp** — we'll receive a tidy receipt with everything spelled out and get back to you to confirm.
+4. **Send it to us on WhatsApp** — we receive a tidy receipt with everything spelled out, and we get back to you to confirm.
 
 That's it. No sign-up, no payment screens, no noise.
 
 ---
 
-## ⚙️ If you're running this yourself
+<div align="center">
 
-A few small things you'll probably want to change:
+### 📞 Get in touch
 
-**Your WhatsApp number** — look for this line and put your own number in (international format, no `+` or spaces):
+[![Email](https://img.shields.io/badge/Email-mohamed005cheikh@gmail.com-d4af37?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed005cheikh@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+222_30_72_64_75-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/22230726475)
 
-```javascript
-const WHATSAPP_NUMBER = '22230726475';
+<br />
+
+<sub>© 2026 Mohamed Cheikh — Restaurant MC88</sub>
+
+</div>
